@@ -842,6 +842,7 @@ input[type="checkbox"] {
 
 .cards-1 .card {
   max-width: 21rem;
+  min-height: 28rem;
   margin-right: auto;
   margin-bottom: 4.5rem;
   margin-left: auto;
