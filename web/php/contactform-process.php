@@ -25,7 +25,7 @@ if (empty($_POST["terms"])) {
     $terms = $_POST["terms"];
 }
 
-$EmailTo = "yourname@domain.com";
+$EmailTo = "asaseemas@gmail.com";
 $Subject = "New message from Evolo landing page";
 
 // prepare email body text
