@@ -75,6 +75,12 @@ p {
   padding-left: 1.25rem;
 }
 
+/* i {
+  display: inline-block;
+  padding-right: 10px;
+  color: #00bfd8;
+} */
+
 h1 {
   color: #393939;
   font: 700 3rem/3.5rem "Raleway", sans-serif;
